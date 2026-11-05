@@ -1,0 +1,12 @@
+{
+  "name": "learn ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "streaming": "node streaming.mts",
+    "mini-chat": "node mini-chat.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6"
+  }
+}
